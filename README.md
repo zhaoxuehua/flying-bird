@@ -1,6 +1,7 @@
 # flying-bird
 The case of the flying bird
-链接：
+
+链接：https://zhaoxuehua.github.io/flying-bird/
 
 简介
 
